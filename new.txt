@@ -1,2 +1,6 @@
 Bojan Here
+<<<<<<< Updated upstream
 very new
+=======
+Ik ben een grote fan van FC Ajax - Bojan
+>>>>>>> Stashed changes
