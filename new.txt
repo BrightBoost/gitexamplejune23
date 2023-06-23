@@ -1,2 +1,1 @@
 this is text on the frist line
-This is an addition to the file
