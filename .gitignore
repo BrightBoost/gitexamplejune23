@@ -1,3 +1,6 @@
 another.txt
 .DS-Store
 /random
+new.txt
+.DS_Store
+/ignorethis/stuff
